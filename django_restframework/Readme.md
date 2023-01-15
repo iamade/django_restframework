@@ -6,9 +6,10 @@
 python manage.py startapp
 
 """Stopped at """
-54:44
+1:27:09
 
 """migrations"""
 python manage.py makemigrations
 python manage.py migrate
 
+"""Runserver"""
